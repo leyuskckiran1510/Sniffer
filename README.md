@@ -1,14 +1,8 @@
 # Sniffer 
-# <img src="https://github.com/leyuskckiran1510/Sniffer/blob/main/sniffer/sniffer.png"  height="150">
+# ---------------------- <img src="https://github.com/leyuskckiran1510/Sniffer/blob/main/sniffer/sniffer.png"  height="150">
 The one only sniffer to sniff out provided text or file extension directory from any depth of folders. Nothing can escape from it's nose.
 
 
-# Youtubepet
-```diff
-! Code to scrape the celeb Instagram Feed and upload it to YouTube with proper thumbnails and video description.
-! This is your pet who will download and complie the picess of downloded small files into one and upload it to youtube for you
-! You just have to run a file and let it do all the boring task and during that time you can do something productive
-```
 
 # insalling
 ```python
